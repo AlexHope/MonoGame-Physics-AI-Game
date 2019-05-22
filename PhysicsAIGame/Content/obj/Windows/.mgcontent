@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Alex/Desktop/Submit me/PhysicsAIGame/PhysicsAIGame/Content/enemymed.png</File>
+    <File>C:/Users/Alex/Desktop/Submit me/PhysicsAIGame/PhysicsAIGame/Content/playermed.png</File>
+    <File>C:/Users/Alex/Desktop/Submit me/PhysicsAIGame/PhysicsAIGame/Content/cursor.png</File>
+    <File>C:/Users/Alex/Desktop/Submit me/PhysicsAIGame/PhysicsAIGame/Content/ballprojsmall_16.png</File>
+    <File>C:/Users/Alex/Desktop/Submit me/PhysicsAIGame/PhysicsAIGame/Content/ballprojsmall_b_16.png</File>
+    <File>C:/Users/Alex/Desktop/Submit me/PhysicsAIGame/PhysicsAIGame/Content/bulletprojsmall_8.png</File>
+    <File>C:/Users/Alex/Desktop/Submit me/PhysicsAIGame/PhysicsAIGame/Content/bulletprojsmall_10.png</File>
+    <File>C:/Users/Alex/Desktop/Submit me/PhysicsAIGame/PhysicsAIGame/Content/target.png</File>
+    <File>C:/Users/Alex/Desktop/Submit me/PhysicsAIGame/PhysicsAIGame/Content/bulletprojsmall_b_8.png</File>
+    <File>C:/Users/Alex/Desktop/Submit me/PhysicsAIGame/PhysicsAIGame/Content/bulletprojsmall_b_10.png</File>
+    <File>C:/Users/Alex/Desktop/Submit me/PhysicsAIGame/PhysicsAIGame/Content/Arial.spritefont</File>
+    <File>C:/Users/Alex/Desktop/Submit me/PhysicsAIGame/PhysicsAIGame/Content/grid32.png</File>
+    <File>C:/Users/Alex/Desktop/Submit me/PhysicsAIGame/PhysicsAIGame/Content/pendulumball.png</File>
+  </SourceFiles>
+</SourceFileCollection>

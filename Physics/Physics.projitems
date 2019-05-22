@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>7d395164-4806-4a75-bace-736dad01e4dc</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Physics</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Collision Handling\AABB.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Collision Handling\BoxCollider.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Collision Handling\Collider.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Collision Handling\CollisionData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Collision Handling\CollisionHandler.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Phys Objects\Character.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Phys Objects\MovingPlatform.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Phys Objects\Pendulum.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Phys Objects\PhysObject.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Phys Objects\Projectile.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)RigidBody.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)PhysicsManager.cs" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>beed8fc3-0b6d-42de-837e-24b91bcbb1d1</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>AI</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)AIBehaviour.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)AIManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Heap.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Node.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)NodeGrid.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)NodeManager.cs" />
+  </ItemGroup>
+</Project>

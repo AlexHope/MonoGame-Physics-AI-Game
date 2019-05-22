@@ -1,5 +1,5 @@
 # Physics-AI-Game
-The game created during the Game Behaviour module, Year 3 Derby University Computer Games Programming course.
+A game made in the Game Behaviour module in Year 3 Derby University Computer Games Programming course.
 
 
 --------------------------- INSTRUCTIONS ON RUNNING THE GAME ---------------------------
